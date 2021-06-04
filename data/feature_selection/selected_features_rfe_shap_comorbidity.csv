@@ -1,0 +1,5 @@
+algorithm,selected_features,number_of_features,neg_mae_score_cv
+rfe - measure shap comorbidity,Neoplasms,4,-0.031
+rfe - measure shap comorbidity,Mental and behavioural disorders,4,-0.031
+rfe - measure shap comorbidity,External causes of morbidity and mortality,4,-0.031
+rfe - measure shap comorbidity,Diseases of the musculoskeletal system and connective tissue,4,-0.031

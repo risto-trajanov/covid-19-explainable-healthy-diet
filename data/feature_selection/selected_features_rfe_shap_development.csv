@@ -1,0 +1,6 @@
+algorithm,selected_features,number_of_features,neg_mae_score_cv
+rfe - measure shap development,Obesity,5,-0.011
+rfe - measure shap development,Population,5,-0.011
+rfe - measure shap development,Max Latitude,5,-0.011
+rfe - measure shap development,Max Longitude,5,-0.011
+rfe - measure shap development,Annual Average Temperature,5,-0.011

@@ -1,0 +1,5 @@
+algorithm,selected_features,number_of_features,neg_mae_score_cv
+rfe - measure shap food,"Fish, Seafood",4,-0.014
+rfe - measure shap food,Alcoholic Beverages,4,-0.014
+rfe - measure shap food,Eggs,4,-0.014
+rfe - measure shap food,Milk - Excluding Butter,4,-0.014
