@@ -1,0 +1,12 @@
+algorithm,selected_features,number_of_features,neg_mae_score_cv
+rfe - measure shap all,Alcoholic Beverages,11,-0.021
+rfe - measure shap all,Autumn Average Temperature,11,-0.021
+rfe - measure shap all,Meat,11,-0.021
+rfe - measure shap all,Mental and behavioural disorders,11,-0.021
+rfe - measure shap all,Animal fats,11,-0.021
+rfe - measure shap all,Fruits - Excluding Wine,11,-0.021
+rfe - measure shap all,Milk - Excluding Butter,11,-0.021
+rfe - measure shap all,Summer Average Temperature,11,-0.021
+rfe - measure shap all,Min Longitude,11,-0.021
+rfe - measure shap all,Diseases of the skin and subcutaneous tissue,11,-0.021
+rfe - measure shap all,Diseases of the eye and adnexa and ear and mastoid process,11,-0.021
