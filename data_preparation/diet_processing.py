@@ -14,6 +14,14 @@ if __name__ == '__main__':
     df_3 = pd.read_csv(data_folder + files[2])
     countries = pd.read_csv(data_folder + 'countries.csv')
 
+    df_1.drop(['Confirmed', 'Deaths', 'Recovered'], axis=1)
+    df_2.drop(['Confirmed', 'Deaths', 'Recovered'], axis=1)
+    df_3.drop(['Confirmed', 'Deaths', 'Recovered'], axis=1)
+
+    df_1.drop(['Confirmed', 'Deaths', 'Recovered'], axis=1)
+    df_2.drop(['Confirmed', 'Deaths', 'Recovered'], axis=1)
+    df_3.drop(['Confirmed', 'Deaths', 'Recovered'], axis=1)
+
     list_dfs = [df_1, df_2, df_3]
 
     merged_df = pd.concat([df_1, df_2, df_3]).groupby(level=0).mean()
