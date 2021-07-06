@@ -1,0 +1,10 @@
+algorithm,selected_features,number_of_features,neg_mae_score_cv
+rfe - measure shap food_control,Max Latitude,9,-0.013
+rfe - measure shap food_control,Oilcrops,9,-0.013
+rfe - measure shap food_control,Milk - Excluding Butter,9,-0.013
+rfe - measure shap food_control,Annual Average Temperature,9,-0.013
+rfe - measure shap food_control,hdi_2016,9,-0.013
+rfe - measure shap food_control,Alcoholic Beverages,9,-0.013
+rfe - measure shap food_control,hdi_2017,9,-0.013
+rfe - measure shap food_control,Obesity,9,-0.013
+rfe - measure shap food_control,Min Longitude,9,-0.013
