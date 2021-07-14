@@ -1,6 +1,4 @@
 algorithm,selected_features,number_of_features,neg_mae_score_cv
-rfe - measure shap comorbidity,Diseases of the eye and adnexa and ear and mastoid process,5,-0.034
-rfe - measure shap comorbidity,Neoplasms,5,-0.034
-rfe - measure shap comorbidity,Mental and behavioural disorders,5,-0.034
-rfe - measure shap comorbidity,Diseases of the musculoskeletal system and connective tissue,5,-0.034
-rfe - measure shap comorbidity,External causes of morbidity and mortality,5,-0.034
+rfe - measure shap comorbidity,Neoplasms,3,-0.031
+rfe - measure shap comorbidity,Diseases of the musculoskeletal system and connective tissue,3,-0.031
+rfe - measure shap comorbidity,Mental and behavioural disorders,3,-0.031
