@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Trajanov"
+  given-names: "Risto"
+- family-names: "Trajanovska"
+  given-names: "Milena"
+- family-names: "Eftimov"
+  given-names: "Tome"
+title: "covid-19-explainable-healthy-diet"
+version: 1.0.0
+date-released: 01-08-2021
+url: "https://github.com/risto-trajanov/covid-19-explainable-healthy-diet"
