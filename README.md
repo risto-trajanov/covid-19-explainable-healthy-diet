@@ -13,3 +13,7 @@ pip install requirements.txt
 ```
 
 Set the folders path in ```settings.py```
+
+# Paper
+
+https://www.sciencedirect.com/science/article/pii/S0957417422014907
